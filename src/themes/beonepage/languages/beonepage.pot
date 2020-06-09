@@ -1,0 +1,1779 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BeTheme
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BeOnePage Lite 1.1.4\n"
+"Report-Msgid-Bugs-To: hi@betheme.me\n"
+"POT-Creation-Date: 2016-04-05 09:27+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:88
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:90
+msgid "Leave a <span>Comment</span>"
+msgstr ""
+
+#: comments.php:93
+msgid "Comment"
+msgstr ""
+
+#: comments.php:100 template-home-page.php:329
+msgid "Name"
+msgstr ""
+
+#: comments.php:105
+msgid "E-Mail"
+msgstr ""
+
+#: comments.php:110
+msgid "Website"
+msgstr ""
+
+#: footer.php:25
+#, php-format
+msgid " Build with %s."
+msgstr ""
+
+#: functions.php:50
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:94
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: template-home-page.php:316
+msgid "This field is required."
+msgstr ""
+
+#: template-home-page.php:317
+msgid "Please check your math."
+msgstr ""
+
+#: template-home-page.php:318
+msgid "Invalid email address."
+msgstr ""
+
+#: template-home-page.php:333
+msgid "Email"
+msgstr ""
+
+#: template-home-page.php:337
+msgid "Phone"
+msgstr ""
+
+#: template-home-page.php:341
+msgid "Subject"
+msgstr ""
+
+#: template-home-page.php:345
+msgid "Message"
+msgstr ""
+
+#: inc/breadcrumb.php:11
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:12
+msgid "Blog"
+msgstr ""
+
+#: inc/breadcrumb.php:13
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/breadcrumb.php:14
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/breadcrumb.php:15
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/breadcrumb.php:16
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/breadcrumb.php:17
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumb.php:214
+msgid "Page"
+msgstr ""
+
+#: inc/comments-callback.php:42
+#, php-format
+msgctxt "post date"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/comments-callback.php:50
+msgctxt "edit comment"
+msgid "Edit"
+msgstr ""
+
+#: inc/comments-callback.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:92
+msgid "Upgrade to"
+msgstr ""
+
+#: inc/extras.php:94
+msgid "to enjoy"
+msgstr ""
+
+#: inc/extras.php:96
+msgid "Premium Features"
+msgstr ""
+
+#: inc/extras.php:97
+msgid "and support continued development"
+msgstr ""
+
+#: inc/extras.php:179
+msgid "Verification error. Try again!"
+msgstr ""
+
+#: inc/extras.php:191
+msgid "phone"
+msgstr ""
+
+#: inc/extras.php:196
+msgid "Thank you. The Mailman is on his way!"
+msgstr ""
+
+#: inc/extras.php:198
+msgid "Sorry, don't know what happened. Try later!"
+msgstr ""
+
+#: inc/extras.php:232
+msgid "First"
+msgstr ""
+
+#: inc/extras.php:236
+msgid "Prev"
+msgstr ""
+
+#: inc/extras.php:246
+msgid "Next"
+msgstr ""
+
+#: inc/extras.php:250
+msgid "Last"
+msgstr ""
+
+#: inc/extras.php:373
+msgid "icon found."
+msgstr ""
+
+#: inc/extras.php:374
+msgid "icons found."
+msgstr ""
+
+#: inc/extras.php:375
+msgid "No icons found."
+msgstr ""
+
+#: inc/extras.php:376
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:81
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:103 inc/template-tags.php:109
+#: template-parts/content-blog.php:43
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:105 template-parts/content-blog.php:38
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:111
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:117
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:124 template-parts/content-page.php:28
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/kirki/config.php:34
+msgid "General"
+msgstr ""
+
+#: inc/kirki/config.php:35
+msgid "You may need to refresh the page to see the changes."
+msgstr ""
+
+#: inc/kirki/config.php:40
+msgid "Site Icon"
+msgstr ""
+
+#: inc/kirki/config.php:41
+msgid "Here you can upload your own custom favicon image"
+msgstr ""
+
+#: inc/kirki/config.php:47 inc/kirki/config.php:137
+msgid "Front Page"
+msgstr ""
+
+#: inc/kirki/config.php:53
+msgid "Slider Module"
+msgstr ""
+
+#: inc/kirki/config.php:59
+msgid "Icon Service Module"
+msgstr ""
+
+#: inc/kirki/config.php:65
+msgid "Portfolio Module"
+msgstr ""
+
+#: inc/kirki/config.php:71
+msgid "Vertical Promotion Module"
+msgstr ""
+
+#: inc/kirki/config.php:77
+msgid "Blog Module"
+msgstr ""
+
+#: inc/kirki/config.php:83
+msgid "Contact Module"
+msgstr ""
+
+#: inc/kirki/config.php:90
+msgid "Blog Page"
+msgstr ""
+
+#: inc/kirki/config.php:91
+msgid "Here you can customize your blog pages."
+msgstr ""
+
+#: inc/kirki/config.php:97
+msgid "Site Footer"
+msgstr ""
+
+#: inc/kirki/config.php:98
+msgid "Here you can customize the footer on your site."
+msgstr ""
+
+#: inc/kirki/config.php:103
+msgid "Upgrade"
+msgstr ""
+
+#: inc/kirki/config.php:120
+msgid "Site Title"
+msgstr ""
+
+#: inc/kirki/config.php:138
+msgid "Create a blank page with Home Page template and set it as Front Page."
+msgstr ""
+
+#: inc/kirki/config.php:147
+msgid "Posts Page"
+msgstr ""
+
+#: inc/kirki/config.php:148
+msgid "Create a blank page and set it as Posts Page."
+msgstr ""
+
+#: inc/kirki/config.php:157
+msgid "Enable Sticky Menu?"
+msgstr ""
+
+#: inc/kirki/config.php:158
+msgid ""
+"If enable, the menu will be accessible from anywhere without having to "
+"scroll."
+msgstr ""
+
+#: inc/kirki/config.php:167
+msgid "Enable Go to Top Button?"
+msgstr ""
+
+#: inc/kirki/config.php:179 inc/kirki/config.php:442
+msgid "Heading"
+msgstr ""
+
+#: inc/kirki/config.php:180 inc/kirki/config.php:300 inc/kirki/config.php:362
+#: inc/kirki/config.php:443 inc/kirki/config.php:525 inc/kirki/config.php:607
+msgid "If you want to color the word, just wrap it with \\\"span\\\" tag."
+msgstr ""
+
+#: inc/kirki/config.php:197 inc/kirki/config.php:460
+msgid "Content"
+msgstr ""
+
+#: inc/kirki/config.php:214 inc/kirki/config.php:477
+msgid "Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:231 inc/kirki/config.php:494
+msgid "Button URL"
+msgstr ""
+
+#: inc/kirki/config.php:248
+msgid "Background Image"
+msgstr ""
+
+#: inc/kirki/config.php:261
+msgid "Enable Parallax Scrolling?"
+msgstr ""
+
+#: inc/kirki/config.php:270
+msgid "Enable Scroll Down Button?"
+msgstr ""
+
+#: inc/kirki/config.php:288 inc/kirki/config.php:350 inc/kirki/config.php:431
+#: inc/kirki/config.php:513 inc/kirki/config.php:595
+msgid "Module ID"
+msgstr ""
+
+#: inc/kirki/config.php:289 inc/kirki/config.php:351 inc/kirki/config.php:432
+#: inc/kirki/config.php:514 inc/kirki/config.php:596
+msgid ""
+"Set up a unique ID for the module, the ID will be used for page scrolling "
+"navigation."
+msgstr ""
+
+#: inc/kirki/config.php:299 inc/kirki/config.php:361 inc/kirki/config.php:524
+#: inc/kirki/config.php:606
+msgid "Title"
+msgstr ""
+
+#: inc/kirki/config.php:317 inc/kirki/config.php:379 inc/kirki/config.php:542
+#: inc/kirki/config.php:624
+msgid "Subtitle"
+msgstr ""
+
+#: inc/kirki/config.php:334
+msgid "Layout"
+msgstr ""
+
+#: inc/kirki/config.php:335
+msgid "Choose the layout for the container."
+msgstr ""
+
+#: inc/kirki/config.php:340
+msgid "Fixed-width"
+msgstr ""
+
+#: inc/kirki/config.php:341
+msgid "Full-width"
+msgstr ""
+
+#: inc/kirki/config.php:396
+msgid "Enable Portfolio Filter?"
+msgstr ""
+
+#: inc/kirki/config.php:405
+msgid "Show All Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:559
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:576
+msgid "View More Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:641
+msgid "Send Button Text"
+msgstr ""
+
+#: inc/kirki/config.php:660
+msgid "Header Image"
+msgstr ""
+
+#: inc/kirki/config.php:674
+msgid "Copyright Information"
+msgstr ""
+
+#: inc/kirki/config.php:675
+msgid ""
+"Want to remove the theme byline? See section \"Upgrade\" for more "
+"information."
+msgstr ""
+
+#: inc/kirki/config.php:677
+msgid "Copyrights &copy; 2015. All Rights Reserved."
+msgstr ""
+
+#: inc/kirki/config.php:684
+msgid "Show Site Title?"
+msgstr ""
+
+#: inc/kirki/config.php:695
+msgid "Want to remove the theme byline from your website's footer?"
+msgstr ""
+
+#: inc/kirki/config.php:695
+msgid "Upgrade to BeOnePage Pro Now"
+msgstr ""
+
+#: template-parts/content-ajax-portfolio.php:59
+msgid "Created by"
+msgstr ""
+
+#: template-parts/content-ajax-portfolio.php:63
+msgid "Completed on"
+msgstr ""
+
+#: template-parts/content-ajax-portfolio.php:67
+msgid "Skills"
+msgstr ""
+
+#: template-parts/content-ajax-portfolio.php:71
+msgid "Client"
+msgstr ""
+
+#: template-parts/content-blog.php:40
+#, php-format
+msgid "Posted in %1$s, "
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first portfolio? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:33
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:17 template-parts/content-single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:44
+msgid "Read More"
+msgstr ""
+
+#: tgm-plugin-activation:303
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm-plugin-activation:304
+msgid "Install Plugins"
+msgstr ""
+
+#: tgm-plugin-activation:305
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tgm-plugin-activation:306
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: tgm-plugin-activation:308
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:313
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:318
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:323
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:328
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:333
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:338
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:343
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:353
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:358
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:363
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:368
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm-plugin-activation:369
+msgid "Return to the dashboard"
+msgstr ""
+
+#: tgm-plugin-activation:370 tgm-plugin-activation:3016
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm-plugin-activation:371 tgm-plugin-activation:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:372
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: tgm-plugin-activation:373
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: tgm-plugin-activation:374
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm-plugin-activation:375
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm-plugin-activation:376
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tgm-plugin-activation:494
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: tgm-plugin-activation:495
+msgid "Update Required"
+msgstr ""
+
+#: tgm-plugin-activation:612
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: tgm-plugin-activation:811 tgm-plugin-activation:3434
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm-plugin-activation:926
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: tgm-plugin-activation:926 tgm-plugin-activation:930
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: tgm-plugin-activation:930
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: tgm-plugin-activation:1115 tgm-plugin-activation:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: tgm-plugin-activation:1901
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: tgm-plugin-activation:2182
+msgid "Required"
+msgstr ""
+
+#: tgm-plugin-activation:2185
+msgid "Recommended"
+msgstr ""
+
+#: tgm-plugin-activation:2202
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm-plugin-activation:2206
+msgid "External Source"
+msgstr ""
+
+#: tgm-plugin-activation:2210
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm-plugin-activation:2229
+msgid "Not Installed"
+msgstr ""
+
+#: tgm-plugin-activation:2233
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm-plugin-activation:2235
+msgid "Active"
+msgstr ""
+
+#: tgm-plugin-activation:2241
+msgid "Required Update not Available"
+msgstr ""
+
+#: tgm-plugin-activation:2244
+msgid "Requires Update"
+msgstr ""
+
+#: tgm-plugin-activation:2247
+msgid "Update recommended"
+msgstr ""
+
+#: tgm-plugin-activation:2255
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: tgm-plugin-activation:2304
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:2308
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:2312
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:2316
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin-activation:2409
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: tgm-plugin-activation:2417
+msgid "Installed version:"
+msgstr ""
+
+#: tgm-plugin-activation:2425
+msgid "Minimum required version:"
+msgstr ""
+
+#: tgm-plugin-activation:2437
+msgid "Available version:"
+msgstr ""
+
+#: tgm-plugin-activation:2461
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: tgm-plugin-activation:2477
+msgid "Plugin"
+msgstr ""
+
+#: tgm-plugin-activation:2478
+msgid "Source"
+msgstr ""
+
+#: tgm-plugin-activation:2479
+msgid "Type"
+msgstr ""
+
+#: tgm-plugin-activation:2483
+msgid "Version"
+msgstr ""
+
+#: tgm-plugin-activation:2484
+msgid "Status"
+msgstr ""
+
+#: tgm-plugin-activation:2508
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: tgm-plugin-activation:2514
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: tgm-plugin-activation:2520
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: tgm-plugin-activation:2591
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: tgm-plugin-activation:2624
+msgid "Install"
+msgstr ""
+
+#: tgm-plugin-activation:2630
+msgid "Update"
+msgstr ""
+
+#: tgm-plugin-activation:2633
+msgid "Activate"
+msgstr ""
+
+#: tgm-plugin-activation:2694
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: tgm-plugin-activation:2696
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: tgm-plugin-activation:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: tgm-plugin-activation:3015
+msgid "Plugin activation failed."
+msgstr ""
+
+#: tgm-plugin-activation:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin-activation:3358
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: tgm-plugin-activation:3359
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm-plugin-activation:3363
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: tgm-plugin-activation:3364
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm-plugin-activation:3364 tgm-plugin-activation:3371
+msgid "Show Details"
+msgstr ""
+
+#: tgm-plugin-activation:3364 tgm-plugin-activation:3371
+msgid "Hide Details"
+msgstr ""
+
+#: tgm-plugin-activation:3365
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: tgm-plugin-activation:3366
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin-activation:3370
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: tgm-plugin-activation:3371
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgm-plugin-activation:3372
+msgid "All installations have been completed."
+msgstr ""
+
+#: tgm-plugin-activation:3373
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: demo-theme/functions.php:16
+msgid "Checkbox Controls"
+msgstr ""
+
+#: demo-theme/functions.php:22
+msgid "Text Controls"
+msgstr ""
+
+#: demo-theme/functions.php:28
+msgid "Color & Color-Alpha Controls"
+msgstr ""
+
+#: demo-theme/functions.php:34
+msgid "Numeric Controls"
+msgstr ""
+
+#: demo-theme/functions.php:40
+msgid "Radio Controls"
+msgstr ""
+
+#: demo-theme/functions.php:46
+msgid "Select Controls"
+msgstr ""
+
+#: demo-theme/functions.php:52
+msgid "Composite Controls"
+msgstr ""
+
+#: demo-theme/functions.php:58 demo-theme/functions.php:217
+msgid "Custom Control"
+msgstr ""
+
+#: demo-theme/functions.php:79
+msgid "Checkbox demo"
+msgstr ""
+
+#: demo-theme/functions.php:80
+msgid "This is a simple checkbox"
+msgstr ""
+
+#: demo-theme/functions.php:81 demo-theme/functions.php:92
+#: demo-theme/functions.php:110 demo-theme/functions.php:120
+#: demo-theme/functions.php:131 demo-theme/functions.php:142
+#: demo-theme/functions.php:152 demo-theme/functions.php:169
+#: demo-theme/functions.php:194 demo-theme/functions.php:230
+#: demo-theme/functions.php:255 demo-theme/functions.php:274
+#: demo-theme/functions.php:291 demo-theme/functions.php:323
+#: demo-theme/functions.php:355 demo-theme/functions.php:371
+#: demo-theme/functions.php:387 demo-theme/functions.php:417
+#: demo-theme/functions.php:429 demo-theme/functions.php:459
+#: demo-theme/functions.php:494 demo-theme/functions.php:511
+msgid "This is a tooltip"
+msgstr ""
+
+#: demo-theme/functions.php:90
+msgid "Switch demo"
+msgstr ""
+
+#: demo-theme/functions.php:91
+msgid ""
+"This is a switch control. Internally it is a checkbox and you can also "
+"change the ON/OFF labels."
+msgstr ""
+
+#: demo-theme/functions.php:108
+msgid "Toggle demo"
+msgstr ""
+
+#: demo-theme/functions.php:109
+msgid ""
+"This is a toggle. it is basically identical to a switch, the only "
+"difference is that it does not have any labels and to save space it is "
+"inline with the label. Internally this is a checkbox."
+msgstr ""
+
+#: demo-theme/functions.php:119
+msgid "Text Control"
+msgstr ""
+
+#: demo-theme/functions.php:121 demo-theme/index.php:108
+msgid "This text is entered in the \"text\" control."
+msgstr ""
+
+#: demo-theme/functions.php:130
+msgid "Textarea Control"
+msgstr ""
+
+#: demo-theme/functions.php:132 demo-theme/index.php:117
+msgid "This text is entered in the \"textarea\" control."
+msgstr ""
+
+#: demo-theme/functions.php:141
+msgid "Editor Control"
+msgstr ""
+
+#: demo-theme/functions.php:144 demo-theme/index.php:126
+msgid "This text is entered in the \"editor\" control."
+msgstr ""
+
+#: demo-theme/functions.php:151
+msgid "Code Control"
+msgstr ""
+
+#: demo-theme/functions.php:153
+msgid ""
+"This is a cimple code control. You can define the language you want as well "
+"as the theme. For a full list of available languages and themes see "
+"http://ace.c9.io/build/kitchen-sink.html. In this demo we are using a CSS "
+"editor with the monokai theme."
+msgstr ""
+
+#: demo-theme/functions.php:167 demo-theme/functions.php:559
+msgid "Color Control"
+msgstr ""
+
+#: demo-theme/functions.php:168
+msgid "This uses the default WordPress-core color control."
+msgstr ""
+
+#: demo-theme/functions.php:192
+msgid "Color-Alpha Control"
+msgstr ""
+
+#: demo-theme/functions.php:193
+msgid ""
+"Similar to the default Color control but with a teist: This one allows you "
+"to also select an opacity for the color and saves the value as HEX or RGBA "
+"depending on the alpha channel's value."
+msgstr ""
+
+#: demo-theme/functions.php:218
+msgid "This is the control description"
+msgstr ""
+
+#: demo-theme/functions.php:219
+msgid ""
+"This is some extra help. You can use this to add some additional "
+"instructions for users. The main description should go in the "
+"\"description\" of the field, this is only to be used for help tips."
+msgstr ""
+
+#: demo-theme/functions.php:228
+msgid "Dimension Control"
+msgstr ""
+
+#: demo-theme/functions.php:229
+msgid "In this example we are changing the width of the body"
+msgstr ""
+
+#: demo-theme/functions.php:253
+msgid "Multicheck control"
+msgstr ""
+
+#: demo-theme/functions.php:254
+msgid ""
+"You can define choices for this control and it will save the selected "
+"values as an array."
+msgstr ""
+
+#: demo-theme/functions.php:260 demo-theme/functions.php:278
+#: demo-theme/functions.php:517 demo-theme/functions.php:536
+msgid "Option 1"
+msgstr ""
+
+#: demo-theme/functions.php:261 demo-theme/functions.php:279
+#: demo-theme/functions.php:518 demo-theme/functions.php:545
+msgid "Option 2"
+msgstr ""
+
+#: demo-theme/functions.php:262 demo-theme/functions.php:280
+#: demo-theme/functions.php:519
+msgid "Option 3"
+msgstr ""
+
+#: demo-theme/functions.php:263 demo-theme/functions.php:281
+#: demo-theme/functions.php:520
+msgid "Option 4"
+msgstr ""
+
+#: demo-theme/functions.php:264 demo-theme/functions.php:282
+#: demo-theme/functions.php:521
+msgid "Option 5"
+msgstr ""
+
+#: demo-theme/functions.php:271
+msgid "Sortable Control"
+msgstr ""
+
+#: demo-theme/functions.php:273
+msgid ""
+"Similar to the \"multicheck\" control, you can define choices foir this "
+"control and the options will be saved as an array. The main difference "
+"between the multicheck control and this one is that this one also allows "
+"you to rearrange the order of the items."
+msgstr ""
+
+#: demo-theme/functions.php:289
+msgid "Number Control"
+msgstr ""
+
+#: demo-theme/functions.php:290
+msgid "This is a simple num,ber control that allows you to select integer values."
+msgstr ""
+
+#: demo-theme/functions.php:321
+msgid "Slider Control"
+msgstr ""
+
+#: demo-theme/functions.php:322
+msgid ""
+"Similar to the number control. The main difference is that on this one you "
+"can define a min, max & step value thus allowing you to use decimal values "
+"instead of just integers."
+msgstr ""
+
+#: demo-theme/functions.php:353
+msgid "Radio Control"
+msgstr ""
+
+#: demo-theme/functions.php:354
+msgid "A simple radio-inputs control."
+msgstr ""
+
+#: demo-theme/functions.php:360 demo-theme/functions.php:376
+#: demo-theme/functions.php:500
+msgid "Red"
+msgstr ""
+
+#: demo-theme/functions.php:361 demo-theme/functions.php:377
+#: demo-theme/functions.php:501
+msgid "Green"
+msgstr ""
+
+#: demo-theme/functions.php:362 demo-theme/functions.php:378
+#: demo-theme/functions.php:502
+msgid "Blue"
+msgstr ""
+
+#: demo-theme/functions.php:369
+msgid "Radio-Buttonset Control"
+msgstr ""
+
+#: demo-theme/functions.php:370
+msgid ""
+"This is a radio control styled as inline buttons. You can use this if you "
+"have few options with short titles that will fit in a single line."
+msgstr ""
+
+#: demo-theme/functions.php:385
+msgid "Radio-Image Control"
+msgstr ""
+
+#: demo-theme/functions.php:386
+msgid ""
+"This is a radio control that allows you to define an image for every option "
+"is the array of choices in the field. Useful if you want for example to "
+"select a layout. You can even use the images included in the Kirki plugin "
+"for that, in the /assets/images directory."
+msgstr ""
+
+#: demo-theme/functions.php:415
+msgid "Palette Control"
+msgstr ""
+
+#: demo-theme/functions.php:416
+msgid ""
+"This is basically a radio control. It allows you to define an array of "
+"colors that will be used in order to convey your message in a visually "
+"compelling way."
+msgstr ""
+
+#: demo-theme/functions.php:427
+msgid "Typography Control"
+msgstr ""
+
+#: demo-theme/functions.php:428
+msgid ""
+"This is a composite typography control. It saves the data as an array, and "
+"you can define which of the controls you want shown."
+msgstr ""
+
+#: demo-theme/functions.php:457
+msgid "Repeater Control"
+msgstr ""
+
+#: demo-theme/functions.php:458
+msgid ""
+"The \"repeater\" control allows you to create rows of data and you can "
+"define the fields that the rows will use. Valide field-types are: text, "
+"checkbox, radio, select, textarea. The data is saves as a multi-dimentional "
+"array."
+msgstr ""
+
+#: demo-theme/functions.php:465 demo-theme/index.php:245
+msgid "Kirki Site"
+msgstr ""
+
+#: demo-theme/functions.php:469 demo-theme/index.php:249
+msgid "Kirki Repository"
+msgstr ""
+
+#: demo-theme/functions.php:476
+msgid "Link Text"
+msgstr ""
+
+#: demo-theme/functions.php:477
+msgid "This will be the label for your link"
+msgstr ""
+
+#: demo-theme/functions.php:482
+msgid "Link URL"
+msgstr ""
+
+#: demo-theme/functions.php:483
+msgid "This will be the link URL"
+msgstr ""
+
+#: demo-theme/functions.php:492
+msgid "Select Control"
+msgstr ""
+
+#: demo-theme/functions.php:493
+msgid ""
+"A simple select (dropdown) control, allowing you to make a single option "
+"from a relatively large pool of options."
+msgstr ""
+
+#: demo-theme/functions.php:499
+msgid "Placeholder Text"
+msgstr ""
+
+#: demo-theme/functions.php:509
+msgid "Select Control (multiple)"
+msgstr ""
+
+#: demo-theme/functions.php:510
+msgid ""
+"A multi-select control, allowing you to select multiple items "
+"simultaneously as well as re-arrange them at will using a simple "
+"drag-n-drop interface. Data is saved as an array."
+msgstr ""
+
+#: demo-theme/functions.php:528
+msgid "Preset control"
+msgstr ""
+
+#: demo-theme/functions.php:529
+msgid "Bulk-changes the value of other controls."
+msgstr ""
+
+#: demo-theme/functions.php:568
+msgid "Color Alpha Control"
+msgstr ""
+
+#: demo-theme/index.php:10
+msgid "Please enable the Kirki Plugin in order to see the demo in the Customizer"
+msgstr ""
+
+#: demo-theme/index.php:39
+msgid "checkbox:"
+msgstr ""
+
+#: demo-theme/index.php:40
+msgid "Checkbox is %s"
+msgstr ""
+
+#: demo-theme/index.php:40 demo-theme/index.php:44 demo-theme/index.php:48
+#: includes/class-kirki-toolkit.php:77
+msgid "ON"
+msgstr ""
+
+#: demo-theme/index.php:40 demo-theme/index.php:44 demo-theme/index.php:48
+#: includes/class-kirki-toolkit.php:78
+msgid "OFF"
+msgstr ""
+
+#: demo-theme/index.php:43
+msgid "switch:"
+msgstr ""
+
+#: demo-theme/index.php:44
+msgid "Switch is %s"
+msgstr ""
+
+#: demo-theme/index.php:47
+msgid "toggle:"
+msgstr ""
+
+#: demo-theme/index.php:48
+msgid "Toggle is %s"
+msgstr ""
+
+#: demo-theme/index.php:57
+msgid "multicheck:"
+msgstr ""
+
+#: demo-theme/index.php:66 demo-theme/index.php:90
+msgid "Total number of options selected: %s"
+msgstr ""
+
+#: demo-theme/index.php:69 demo-theme/index.php:93
+msgid "Option 2 is selected"
+msgstr ""
+
+#: demo-theme/index.php:71 demo-theme/index.php:95
+msgid "Option 2 is not selected"
+msgstr ""
+
+#: demo-theme/index.php:81
+msgid "sortable:"
+msgstr ""
+
+#: demo-theme/index.php:107
+msgid "text:"
+msgstr ""
+
+#: demo-theme/index.php:116
+msgid "textarea:"
+msgstr ""
+
+#: demo-theme/index.php:125
+msgid "editor:"
+msgstr ""
+
+#: demo-theme/index.php:129
+msgid ""
+"The \"code\" control has its CSS applied directly to the page for the "
+"purposes of this demo. In order to see the changes, please write some valid "
+"CSS and you will see the changes take effect immediately."
+msgstr ""
+
+#: demo-theme/index.php:139
+msgid "color & color-alpha:"
+msgstr ""
+
+#: demo-theme/index.php:140
+msgid "Change the \"color\" control to make the color of this text change"
+msgstr ""
+
+#: demo-theme/index.php:141
+msgid ""
+"Change the \"color-alpha\" control to make the background of this text "
+"change"
+msgstr ""
+
+#: demo-theme/index.php:151
+msgid "number"
+msgstr ""
+
+#: demo-theme/index.php:152 demo-theme/index.php:163
+msgid "Number selected: %s"
+msgstr ""
+
+#: demo-theme/index.php:153 demo-theme/index.php:164
+msgid ""
+"The border-radius of this colored div will change depending on the value "
+"you select"
+msgstr ""
+
+#: demo-theme/index.php:162
+msgid "slider"
+msgstr ""
+
+#: demo-theme/index.php:175
+msgid "radio:"
+msgstr ""
+
+#: demo-theme/index.php:176 demo-theme/index.php:178 demo-theme/index.php:215
+msgid "selected option: %s"
+msgstr ""
+
+#: demo-theme/index.php:177
+msgid "radio-buttonset:"
+msgstr ""
+
+#: demo-theme/index.php:186
+msgid "radio-image:"
+msgstr ""
+
+#: demo-theme/index.php:187
+msgid "The word below is aligned according to your selection"
+msgstr ""
+
+#: demo-theme/index.php:198
+msgid "palette:"
+msgstr ""
+
+#: demo-theme/index.php:200
+msgid "selected palette: %s"
+msgstr ""
+
+#: demo-theme/index.php:214
+msgid "select:"
+msgstr ""
+
+#: demo-theme/index.php:218
+msgid "Multiple Select:"
+msgstr ""
+
+#: demo-theme/index.php:231
+msgid "The \"dimension\" control has its value applied directly as the body's width"
+msgstr ""
+
+#: demo-theme/index.php:234
+msgid ""
+"The \"typography\" control has its values applied directly as the body's "
+"typography ooptions. By changing its value you will see the changes applied "
+"to all text on this page."
+msgstr ""
+
+#: demo-theme/index.php:242
+msgid "repeater:"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:52
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:53
+msgid "Background Image"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:54
+msgid "No Repeat"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:55
+msgid "Repeat All"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:56
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:57
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:58
+msgid "Inherit"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:59
+msgid "Background Repeat"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:60
+msgid "Cover"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:61
+msgid "Contain"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:62
+msgid "Background Size"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:63
+msgid "Fixed"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:64
+msgid "Scroll"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:65
+msgid "Background Attachment"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:66
+msgid "Left Top"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:67
+msgid "Left Center"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:68
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:69
+msgid "Right Top"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:70
+msgid "Right Center"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:71
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:72
+msgid "Center Top"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:73
+msgid "Center Center"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:74
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:75
+msgid "Background Position"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:76
+msgid "Background Opacity"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:79
+msgid "All"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:80
+msgid "Cyrillic"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:81
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:82
+msgid "Devanagari"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:83
+msgid "Greek"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:84
+msgid "Greek Extended"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:85
+msgid "Khmer"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:86
+msgid "Latin"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:87
+msgid "Latin Extended"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:88
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:89
+msgid "Hebrew"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:90
+msgid "Arabic"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:91
+msgid "Bengali"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:92
+msgid "Gujarati"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:93
+msgid "Tamil"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:94
+msgid "Telugu"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:95
+msgid "Thai"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:99
+msgid "Font Family"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:100
+msgid "Font Size"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:101
+msgid "Font Weight"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:102
+msgid "Line Height"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:103
+msgid "Letter Spacing"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:104
+msgid "Top"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:105
+msgid "Bottom"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:106
+msgid "Left"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:107
+msgid "Right"
+msgstr ""
+
+#: includes/controls/class-kirki-controls-repeater-control.php:34
+msgid "Add new row"
+msgstr ""
+
+#: tests/test-kirki.php:55 tests/test-kirki.php:64 tests/test-kirki.php:73
+#: tests/test-kirki.php:131
+msgid "My custom control"
+msgstr ""
+
+#: tests/test-kirki.php:142
+msgid "My custom control 2"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Kirki Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://kirki.org"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The ultimate WordPress Customizer Toolkit"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aristeides Stathopoulos"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://aristeides.com"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:96
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:97
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: includes/class-kirki-toolkit.php:98
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""

@@ -1,0 +1,50 @@
+version: "3"
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: db_blog_xdb
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      MYSQL_ROOT_PASSWORD: $MYSQL_ROOT_PASSWORD
+      MYSQL_USER: $MYSQL_USER
+      MYSQL_PASSWORD: $MYSQL_PASSWORD
+      MYSQL_DATABASE: $DB_NAME
+    ports:
+      - 42333:3306
+    volumes:
+      - dbdata:/var/lib/mysql
+    command: '--default-authentication-plugin=mysql_native_password'
+    networks:
+      - app-network
+
+  wp:
+    depends_on:
+      - db
+    build:
+      context: ./
+      dockerfile: Dockerfile_local
+    container_name: wp_blog_xdb
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "80:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: $MYSQL_USER
+      WORDPRESS_DB_PASSWORD: $MYSQL_PASSWORD
+      WORDPRESS_DB_NAME: $DB_NAME
+      XDEBUG_CONFIG: remote_host=host.docker.internal
+    volumes:
+      - ./src/wordpress:/var/www/html
+      - ./src/themes/beonepage:/var/www/html/wp-content/themes/beonepage
+    networks:
+      - app-network
+
+volumes:
+  dbdata:
+
+networks:
+  app-network:
+    driver: bridge
